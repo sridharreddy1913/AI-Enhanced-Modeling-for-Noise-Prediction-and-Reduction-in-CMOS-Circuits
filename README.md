@@ -11,3 +11,6 @@ selection via Random Forest and Gradient boosting algorithms for predicting nois
 used to examine the relationship between design and environmental factors, but Random
 Forest was found more efficient. This work discusses the method used in the study, findings,
 issues faced and the potential for the future expansion of the project.
+
+# How to run
+Open Google Colab or any other necessary platform, upload the .ipynb and .csv files, and run the code.
