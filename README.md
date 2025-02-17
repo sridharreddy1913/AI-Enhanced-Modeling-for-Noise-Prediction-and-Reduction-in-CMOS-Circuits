@@ -14,3 +14,12 @@ issues faced and the potential for the future expansion of the project.
 
 # How to run
 Open Google Colab or any other necessary platform, upload the .ipynb and .csv files, and run the code.
+
+# Results
+
+
+The implemented noise prediction model has shown promising results in accurately
+forecasting noise levels in CMOS circuits and effectively smoothing out variabilities. The
+Random Forest model, in particular, demonstrated superior performance, making it ideal for
+this task. This model can help in designing CMOS circuits with enhanced noise management
+and prediction capabilities, improving their stability and performance.
