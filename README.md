@@ -1,5 +1,4 @@
-# cmos-noice
-AI-Enhanced Modeling for Noise Prediction and Reduction in CMOS Circuits
+# AI-Enhanced Modeling for Noise Prediction and Reduction in CMOS Circuits
 
 Interference in CMOS circuit is another important aspect in system performance. When the
 dimensions of the CMOS technology enter the deep nanometer range, problems such as
