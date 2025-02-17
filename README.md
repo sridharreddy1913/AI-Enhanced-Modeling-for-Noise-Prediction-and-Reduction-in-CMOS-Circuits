@@ -16,10 +16,9 @@ issues faced and the potential for the future expansion of the project.
 Open Google Colab or any other necessary platform, upload the .ipynb and .csv files, and run the code.
 
 # Results
-
-![Screenshot 2025-02-17 at 4 54 01 PM](https://github.com/user-attachments/assets/da2155ca-0ee6-491c-bcbb-02942e453283)
-![Screenshot 2025-02-17 at 4 53 46 PM](https://github.com/user-attachments/assets/7332e02b-9d95-4eaf-bc7e-4d5042a19aa4)
 ![Screenshot 2025-02-17 at 4 53 16 PM](https://github.com/user-attachments/assets/0de2eb0f-733d-435c-a1b7-8c2b6420ece0)
+![Screenshot 2025-02-17 at 4 53 46 PM](https://github.com/user-attachments/assets/7332e02b-9d95-4eaf-bc7e-4d5042a19aa4)
+![Screenshot 2025-02-17 at 4 54 01 PM](https://github.com/user-attachments/assets/da2155ca-0ee6-491c-bcbb-02942e453283)
 
 The implemented noise prediction model has shown promising results in accurately
 forecasting noise levels in CMOS circuits and effectively smoothing out variabilities. The
